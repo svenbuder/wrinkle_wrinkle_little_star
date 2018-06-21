@@ -1,5 +1,9 @@
-# GALAH_wrinkles
-Following up the paper by Antoja+2018 (arXiv:1804.10196)
+# Wrinkle wrinkle little star
+
+Following up the paper by Antoja+2018 (arXiv:1804.10196) to explore phase-space variations in *Gaia*+GALAH
+
+Author: Sven Buder
+Collaborators: Melissa K. Ness, Kathryn V. Johnston
 
 ## toy model code in *z_vz_toy_model.ipynb*
 
