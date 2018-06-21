@@ -7,9 +7,9 @@ Toy model used for example plot:
 
 ```python
 new_toy_model = toy_model(
-    nr_stars=nr_stars, 
+    nr_stars=1000, 
     potential=MWPotential2014,
-    snapshots=snapshots,
+    snapshots=np.linspace(0,1000,10),
     R_mean    =   8.,      R_disp    =   0.00001, # allowing to also perturb R
     vR_mean   =   0.,      vR_disp   =   0.00001, # allowing to also perturb vR
     vT_mean   = 220.,      vT_disp   =   0.00001, # allowing to also perturb vT
